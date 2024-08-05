@@ -20,6 +20,7 @@ sudo pip install MAVProxy
 
 raspi-config
 Disable UART for console
+
 sudo nano /boot/config.txt - add "dtoverlay=disable-bt"
 if ttyAMA0 isnt in /dev, enable_uart=1 in boot/config
 
