@@ -1,13 +1,21 @@
 # RPi-PX4-Controlling
 
 sudo apt-get update
+
 sudo apt-get upgrade
+
 sudo apt-get install python-pip
+
 sudo apt-get install python-dev
+
 sudo apt-get install future
+
 sudo pat-get install screen wxgtk libxml libxslt
+
 sudo pip install pyserial
+
 sudo pip install dronekit
+
 sudo pip install MAVProxy
 
 raspi-config
